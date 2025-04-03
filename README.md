@@ -1,6 +1,6 @@
 # Zentry Clone
 
-A front-end project inspired by **Zentry**, built to explore **GSAP animations**, **React**, **Tailwind CSS** and modern web technologies. This project is a conceptual recreation focusing on interactive animations, smooth transitions, and engaging user experiences.
+A front-end project inspired by **Zentry**, built to explore **GSAP animations**, **React**, **Tailwind CSS** and modern web technologies. This project is a conceptual recreation focusing on interactive animations, smooth transitions, and engaging user experiences. 
 
 ---
 
@@ -60,4 +60,4 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 ##  Disclaimer
 
 All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
----
+

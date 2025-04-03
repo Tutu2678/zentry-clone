@@ -22,7 +22,7 @@ A front-end project inspired by **Zentry**, built to explore **GSAP animations**
 - **Tailwind CSS** – Utility-first CSS for rapid styling.
 
 
-## Quick Start<
+## Quick Start
 
 Follow these steps to set up the project locally on your machine.
 

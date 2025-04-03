@@ -21,12 +21,43 @@ A front-end project inspired by **Zentry**, built to explore **GSAP animations**
 - **GSAP** – GreenSock Animation Platform for fluid motion effects.
 - **Tailwind CSS** – Utility-first CSS for rapid styling.
 
+
+## Quick Start<
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/Tutu2678/zentry-clone.git
+cd zentry-clone
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 ##  Disclaimer
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for educational purposes and is not intended for commercial use or public deployment.
-
-This project uses some assets and fonts from **[Zentry](https://zentry.com/)** solely for demonstration purposes. All rights to these assets and fonts belong to their respective owners. If you plan to use this project commercially or publicly, please replace these assets and fonts with ones you own or have permission to use.
-
-The live deployment of **Zentry Clone** on Vercel is for demonstration purposes only, showcasing the implementation as part of a personal portfolio. **Zentry Clone** is not affiliated with or endorsed by **[Zentry](https://zentry.com/)**.
-
+All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
 ---
